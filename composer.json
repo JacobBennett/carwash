@@ -1,5 +1,5 @@
 {
-    "name": "dansoppelsa/carwash",
+    "name": "jacobbennett/carwash",
     "description": "Data scrubber for Laravel applications",
     "type": "library",
     "require": {
